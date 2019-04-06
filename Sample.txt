@@ -1,3 +1,4 @@
-First_Name: Ansel
-Last_Name: San
-Balance: 420.69
+1
+Ansel
+San
+420.69
